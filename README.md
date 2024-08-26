@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @shisui06
-- 👀 I’m interested in web app to help the world have a more productive and healthy lifestyle
+- 👋 Hi, I’m Tamour 
+- 👀 I’m interested in web app to help the world have a more productive and healthy life
 - 🌱 I’m currently learning Web developement in college
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on S.a.a.S 
+- 📫 How to reach me tyounas89@gmail.com
+
 
 <!---
 shisui06/shisui06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
